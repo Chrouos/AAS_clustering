@@ -1,0 +1,84 @@
+{
+    "compliant": [
+        {
+            "section": "This website stores cookies on your device . These cookies are used to collect information about how you interact with our website and allow us to remember you . We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media .",
+            "article numbers": "Article 6(1)(f), Recital 47",
+            "legal provisions": "Data processing is lawful if it is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child."
+        },
+        {
+            "section": "To find out more about the cookies we use, see our Privacy Policy .",
+            "article numbers": "Articles 12, 13 & 14",
+            "legal provisions": "Transparency and information obligations for providing fair and transparent processing information to data subjects."
+        },
+        {
+            "section": "If you decline, your information won’t be tracked when you visit this website . Necessary essential cookies will be used in your browser to remember your preference not to be tracked .",
+            "article numbers": "Article 4(11), Recital 32",
+            "legal provisions": "Consent of the data subject means any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her."
+        },
+        {
+            "section": "At Appier, we are committed to protecting data privacy and prioritizing security . \nIn a time when hacks and leaks are commonplace, we understand your concerns and take measures to ensure you can use our solutions with confidence .",
+            "article numbers": "Article 5(1)(f), Article 32",
+            "legal provisions": "Data processing principles of integrity and confidentiality; security of processing."
+        },
+        {
+            "section": "Appier is doing the utmost to maintain compliance with personal data regulations and data privacy guidelines, including GDPR and ISO 27001, two of the most comprehensive data protection and information security standards in the world .",
+            "article numbers": "Article 5(2), Article 24",
+            "legal provisions": "Accountability and demonstration of compliance with data protection principles."
+        },
+        {
+            "section": "We employ a number of product and data security features that provide layers of protection for you and your business from threats and risks . Appier takes issues of privacy and security with the utmost seriousness, and we work on maintaining your trust in us everyday .",
+            "article numbers": "Article 25, Article 32",
+            "legal provisions": "Data protection by design and by default; security of processing."
+        }
+    ],
+    "non_compliant": [
+        {
+            "section": "Accept Decline Contact Us Website privacy and security Last updated: 12th Jan, 2021",
+            "article numbers": "Article 12(1), Article 13(1)(a), Article 14(1)(a)",
+            "legal provisions": "Right of access by the data subject; transparency and information obligations for providing the identity and contact details of the controller.",
+            "amend": "Provide clear and accessible contact information, including the identity of the controller."
+        },
+        {
+            "section": "Our Statement of Commitment",
+            "article numbers": "Not applicable",
+            "legal provisions": "Not applicable",
+            "amend": "While this section expresses a commitment to data privacy, it lacks specific details about data processing activities and legal bases, which are required for GDPR compliance."
+        },
+        {
+            "section": "Product Security We are aware of the sorts of backdoors and attacks unauthorized third parties may try to gain access to your sensitive information . \nTo fend off these unauthorized access, we have equipped our products with a number of security features .",
+            "article numbers": "Article 32(1)",
+            "legal provisions": "Security of processing requires appropriate technical and organisational measures to ensure a level of security appropriate to the risk.",
+            "amend": "Provide more specific information about the technical and organizational security measures implemented, rather than general statements."
+        },
+        {
+            "section": "Single Sign-On Appier offers users a “Single Sign-On'' (SSO) option to access its platforms . With the one set of credentials, users can securely authenticate and sign into all Appier’s platforms . \nThe SSO eliminates the complications of having multiple sets of credentials while ensuring that all users are authenticated . Furthermore, we support multi-factor authentication for logins, making the authentication process more stringent and thus more secure .",
+            "article numbers": "Article 32(1)",
+            "legal provisions": "While SSO and multi-factor authentication can enhance security, the policy should explicitly state how these measures ensure a level of security appropriate to the risk.",
+            "amend": "Explain how SSO and multi-factor authentication specifically address risks to personal data."
+        },
+        {
+            "section": "API Security API, short for application programming interface, is the software intermediary that makes it possible for two applications to communicate with each other . \nTo keep this intermediary safe, Appier adopts a principle of least privilege for its platforms and requires authentication and authorization to access any of them .",
+            "article numbers": "Article 32(1)",
+            "legal provisions": "Similar to SSO, the policy should elaborate on how the principle of least privilege and authentication/authorization mechanisms for APIs ensure a level of security appropriate to the risk.",
+            "amend": "Provide specific details about how API security measures protect personal data."
+        },
+        {
+            "section": "Account Audit Log Appier’s platforms come with an audit log that allows the administrators to see who made what changes to the content on the platforms as well as control who has access to what information .",
+            "article numbers": "Article 30(2)",
+            "legal provisions": "Records of processing activities should include information about the purpose of the processing, categories of data subjects and personal data, recipients of data, and security measures implemented.",
+            "amend": "Specify what information is logged in the audit log and how it aligns with the requirements of Article 30."
+        },
+        {
+            "section": "IP Whitelisting Appier gives users the ability to choose which IP addresses users grant access to where the default setting is denying all addresses . This feature enables users to create an IP whitelist of addresses they trust with access .",
+            "article numbers": "Article 32(1)",
+            "legal provisions": "While IP whitelisting can be a security measure, it should be implemented in conjunction with other appropriate technical and organizational measures.",
+            "amend": "Explain how IP whitelisting, as part of a broader security strategy, contributes to a level of security appropriate to the risk."
+        },
+        {
+            "section": "Certification To ensure that our customers can rest assured that their data is safe and protected when using our solutions, Appier continues to monitor the latest regulations and policies surrounding privacy and security and strives to comply with them .",
+            "article numbers": "Article 42",
+            "legal provisions": "Certification mechanisms under GDPR are voluntary and provide data subjects with assurances about the processing of their data.",
+            "amend": "If Appier holds any relevant certifications, such as those related to GDPR compliance, these should be clearly stated. If not, the language should be revised to avoid implying certification."
+        }
+    ]
+}
